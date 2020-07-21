@@ -1,0 +1,14 @@
+.container {
+  width: 85%;
+  margin-top: 7rem;
+}
+
+.button-group {
+  align-items: center;
+  align-content: center;
+}
+
+.rec-container {
+  width: 40%;
+  margin-top: 1rem;
+}
