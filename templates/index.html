@@ -11,13 +11,11 @@
     <meta property="og:url" content="https://recorder-stt.herokuapp.com/" />
     <meta
       property="og:image"
-      content="https://recorder-stt.herokuapp.com/static/recorderstt.png"
+      content="https://recorder-stt.herokuapp.com/recorderstt.png"
     />
     <meta property="og:type" content="Website" />
     <meta name="author" property="og:author" content="Aravind" />
-    <title>
-      Recorder-STT
-    </title>
+    <title>Recorder-STT</title>
     <!-- CSS only -->
     <link
       rel="stylesheet"
@@ -51,42 +49,38 @@
     ></script>
   </head>
   <body>
-    <div class="text-center jumbotron" style="background-color: #8c9fff;">
-      <h5 style="color: white;">
+    <div class="text-center jumbotron" style="background-color: #8c9fff">
+      <h5 style="color: white">
         <i
           class="fas fa-microphone-alt"
-          style="font-size: 20px; color: white;"
+          style="font-size: 20px; color: white"
         ></i>
         Web Recorder
       </h5>
     </div>
-    <div
-      class="button-group text-center"
-      id="controls"
-      style="margin-top: 2em;"
-    >
+    <div class="button-group text-center" id="controls" style="margin-top: 2em">
       <button class="btn btn-sm btn-primary" id="recordButton">
-        <i class="fas fa-circle" style="font-size: 12px;"></i>
+        <i class="fas fa-circle" style="font-size: 12px"></i>
         Record
       </button>
       <button class="btn btn-sm btn-primary" id="pauseButton" disabled>
-        <i class="fas fa-pause" style="font-size: 12px;"></i>
+        <i class="fas fa-pause" style="font-size: 12px"></i>
         Pause
       </button>
       <button
         class="btn btn-sm"
-        style="background-color: #ff5a5a; color: white;"
+        style="background-color: #ff5a5a; color: white"
         id="stopButton"
         disabled
         onclick="showConvert()"
       >
-        <i class="fas fa-stop" style="font-size: 12px;"></i>
+        <i class="fas fa-stop" style="font-size: 12px"></i>
         Stop
       </button>
     </div>
     <div class="text-center py-2" id="formats"></div>
     <div class="text-center py-3">
-      <ol id="recordingsList" style="list-style: none;"></ol>
+      <ol id="recordingsList" style="list-style: none"></ol>
       <a href="/downloads">
         <button class="btn btn-sm btn-info" disabled id="showme">
           Convert Speech to Text
