@@ -18,7 +18,7 @@ Make sure you have latest pip version `>= pip 19.3.1` and Install all the depend
 pip3 install -r requirements.txt
 ```
 
-![screenshot](recorder-stt.png)
+![screenshot](https://github.com/aravind-alpha/Recorder-STT/blob/master/recorderstt.png)
 
 ### 👨‍🍳 Author
 
