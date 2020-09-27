@@ -6,7 +6,7 @@
 ![speech_recognition](https://img.shields.io/badge/using-speech_recognition-64B0A4?style=flat&logo=python&logoColor=62B3FF)
 ![icons](https://img.shields.io/badge/icons-fontawesome-EE85EE?style=flat&logo=font-awesome)
 
-Web Audio Recorder for recording audio in `.wav` format and converting it to text file.
+Web Audio Recorder for recording audio in `.wav` format and converting it to a text file.
 
 Built using [Recorder.js](https://github.com/mattdiamond/Recorderjs) and [Speech Recognition](https://github.com/Uberi/speech_recognition)
 
@@ -22,10 +22,10 @@ pip3 install -r requirements.txt
 
 ### 👨‍🍳 Author
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aravind-alpha)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Aravind's LinkedIn](https://www.linkedin.com/in/aravind-alpha)
 
 If you like this project, show some love by giving it a ★ 😊
 
 ### Reference
 
-[Addpipe Blog](https://blog.addpipe.com/using-recorder-js-to-capture-wav-audio-in-your-html5-web-site/) - Using Recorder.js to capture WAV audio in HTML5 and upload it to your server or download locally.
+[Addpipe Blog](https://blog.addpipe.com/using-recorder-js-to-capture-wav-audio-in-your-html5-web-site/) - Using Recorder.js to capture WAV audio in HTML5 and upload it to server or download locally.
