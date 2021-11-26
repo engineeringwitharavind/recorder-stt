@@ -18,11 +18,11 @@ Make sure you have latest pip version `>= pip 19.3.1` and Install all the depend
 pip3 install -r requirements.txt
 ```
 
-![screenshot](https://github.com/aravind-alpha/Recorder-STT/blob/master/recorderstt.png)
+![screenshot](https://github.com/frontend-engineer/Recorder-STT/blob/master/recorderstt.png)
 
 ### 💼 &nbsp; LinkedIn
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Aravind's LinkedIn](https://www.linkedin.com/in/aravind-alpha)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Aravind's LinkedIn](https://www.linkedin.com/in/frontend-engineer)
 
 If you like this project, show some love by giving it a ★ 😊
 
