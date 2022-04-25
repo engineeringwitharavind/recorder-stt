@@ -1,6 +1,6 @@
 ## Recorder-STT (Speech to Text) Converter
 
-[![MIT](https://img.shields.io/badge/License-MIT-628AFF?style=flat&logo=license)](https://github.com/aravind-alpha/Recorder-STT/blob/master/LICENSE)
+[![MIT](https://img.shields.io/badge/License-MIT-628AFF?style=flat&logo=license)](https://github.com/engineeringwitharavind/Recorder-STT/blob/master/LICENSE)
 [![flask](https://img.shields.io/badge/build-flask-FF6286?style=flat&logo=flask)](https://flask.palletsprojects.com/en/1.1.x/)
 [![recorder.js](https://img.shields.io/badge/using-recorder.js-61dafb?style=flat&logo=javascript)](https://www.npmjs.com/package/recorder-js)
 [![speech_recognition](https://img.shields.io/badge/library-speech_recognition-%23DB7093?style=flat&logo=python)](https://pypi.org/project/SpeechRecognition/)
@@ -18,11 +18,11 @@ Make sure you have latest pip version `>= pip 19.3.1` and Install all the depend
 pip3 install -r requirements.txt
 ```
 
-![screenshot](https://github.com/frontend-engineer/Recorder-STT/blob/master/recorderstt.png)
+![screenshot](https://github.com/engineeringwitharavind/Recorder-STT/blob/master/recorderstt.png)
 
 ### 💼 &nbsp; LinkedIn
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Aravind's LinkedIn](https://www.linkedin.com/in/frontend-engineer)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Aravind's LinkedIn](https://www.linkedin.com/in/engineeringwitharavind)
 
 If you like this project, show some love by giving it a ★ 😊
 
